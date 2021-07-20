@@ -9,7 +9,7 @@
   "dependencies": {
     "eslint-config-rallycoding": "^3.2.0",
     "react": "16.8.3",
-    "react-native": "0.59.10",
+    "react-native": "0.62.3",
     "react-native-snap-carousel": "^3.8.0"
   },
   "devDependencies": {
